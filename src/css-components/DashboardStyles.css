@@ -1,0 +1,36 @@
+.dashboard-container {
+    margin-left: 240px; 
+    padding: 20px; 
+    background: #f4f4f4; 
+    min-height: 100vh; 
+}
+
+.dashboard-content {
+    background: white; 
+    padding: 30px;
+    border-radius: 5px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin: 20px auto; 
+    max-width: 800px; 
+}
+
+h2 {
+    color: #4CAF50; 
+    margin-bottom: 15px; 
+}
+
+h3 {
+    color: #333; 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+}
+
+ul {
+    margin: 0; 
+    padding: 0; 
+    list-style: none; 
+}
+
+li {
+    margin-bottom: 10px; 
+}
